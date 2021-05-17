@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 162.93042 82.32972"
+   height="82.32972mm"
+   width="162.93042mm">
+  <defs
+     id="defs2">
+    <filter
+       id="filter1165"
+       style="color-interpolation-filters:sRGB">
+      <feTurbulence
+         id="feTurbulence1161"
+         result="turbulence"
+         baseFrequency="0.2093 0.1572"
+         seed="155"
+         numOctaves="3"
+         type="fractalNoise" />
+      <feDisplacementMap
+         id="feDisplacementMap1163"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="6.6"
+         in2="turbulence"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter1173"
+       style="color-interpolation-filters:sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4">
+      <feTurbulence
+         id="feTurbulence1167"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="5"
+         baseFrequency="0.05" />
+      <feDisplacementMap
+         yChannelSelector="A"
+         id="feDisplacementMap1169"
+         in2="result91"
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25" />
+      <feComposite
+         id="feComposite1171"
+         in2="result5"
+         operator="atop"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter1265"
+       style="color-interpolation-filters:sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4">
+      <feTurbulence
+         id="feTurbulence1259"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="5"
+         baseFrequency="0.05" />
+      <feDisplacementMap
+         yChannelSelector="A"
+         id="feDisplacementMap1261"
+         in2="result91"
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25" />
+      <feComposite
+         id="feComposite1263"
+         in2="result5"
+         operator="atop"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter1273"
+       style="color-interpolation-filters:sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4">
+      <feTurbulence
+         id="feTurbulence1267"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="5"
+         baseFrequency="0.05" />
+      <feDisplacementMap
+         yChannelSelector="A"
+         id="feDisplacementMap1269"
+         in2="result91"
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25" />
+      <feComposite
+         id="feComposite1271"
+         in2="result5"
+         operator="atop"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter1287"
+       style="color-interpolation-filters:sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4">
+      <feTurbulence
+         id="feTurbulence1281"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="5"
+         baseFrequency="0.05" />
+      <feDisplacementMap
+         yChannelSelector="A"
+         id="feDisplacementMap1283"
+         in2="result91"
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25" />
+      <feComposite
+         id="feComposite1285"
+         in2="result5"
+         operator="atop"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter1295"
+       style="color-interpolation-filters:sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4">
+      <feTurbulence
+         id="feTurbulence1289"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="5"
+         baseFrequency="0.05" />
+      <feDisplacementMap
+         yChannelSelector="A"
+         id="feDisplacementMap1291"
+         in2="result91"
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25" />
+      <feComposite
+         id="feComposite1293"
+         in2="result5"
+         operator="atop"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter1303"
+       style="color-interpolation-filters:sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4">
+      <feTurbulence
+         id="feTurbulence1297"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="5"
+         baseFrequency="0.05" />
+      <feDisplacementMap
+         yChannelSelector="A"
+         id="feDisplacementMap1299"
+         in2="result91"
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25" />
+      <feComposite
+         id="feComposite1301"
+         in2="result5"
+         operator="atop"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       height="1.4"
+       y="-0.2"
+       width="1.4"
+       x="-0.2"
+       style="color-interpolation-filters:sRGB"
+       id="filter1303-3">
+      <feTurbulence
+         baseFrequency="0.05"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result91"
+         id="feTurbulence1297-6" />
+      <feDisplacementMap
+         yChannelSelector="A"
+         scale="25"
+         result="result5"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap1299-3" />
+      <feComposite
+         in="SourceGraphic"
+         operator="atop"
+         in2="result5"
+         id="feComposite1301-6" />
+    </filter>
+    <filter
+       id="filter1303-3-3"
+       style="color-interpolation-filters:sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4">
+      <feTurbulence
+         id="feTurbulence1297-6-0"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="5"
+         baseFrequency="0.05" />
+      <feDisplacementMap
+         id="feDisplacementMap1299-3-1"
+         in2="result91"
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         yChannelSelector="A" />
+      <feComposite
+         id="feComposite1301-6-4"
+         in2="result5"
+         operator="atop"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       height="1.4"
+       y="-0.2"
+       width="1.4"
+       x="-0.2"
+       style="color-interpolation-filters:sRGB"
+       id="filter1303-3-3-9">
+      <feTurbulence
+         baseFrequency="0.05"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result91"
+         id="feTurbulence1297-6-0-0" />
+      <feDisplacementMap
+         yChannelSelector="A"
+         scale="25"
+         result="result5"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap1299-3-1-6" />
+      <feComposite
+         in="SourceGraphic"
+         operator="atop"
+         in2="result5"
+         id="feComposite1301-6-4-7" />
+    </filter>
+    <filter
+       id="filter1303-3-3-9-0"
+       style="color-interpolation-filters:sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4">
+      <feTurbulence
+         id="feTurbulence1297-6-0-0-9"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="5"
+         baseFrequency="0.05" />
+      <feDisplacementMap
+         id="feDisplacementMap1299-3-1-6-4"
+         in2="result91"
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         yChannelSelector="A" />
+      <feComposite
+         id="feComposite1301-6-4-7-6"
+         in2="result5"
+         operator="atop"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       height="1.4"
+       y="-0.2"
+       width="1.4"
+       x="-0.2"
+       style="color-interpolation-filters:sRGB"
+       id="filter1303-3-3-9-0-6">
+      <feTurbulence
+         baseFrequency="0.05"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result91"
+         id="feTurbulence1297-6-0-0-9-0" />
+      <feDisplacementMap
+         yChannelSelector="A"
+         scale="25"
+         result="result5"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap1299-3-1-6-4-3" />
+      <feComposite
+         in="SourceGraphic"
+         operator="atop"
+         in2="result5"
+         id="feComposite1301-6-4-7-6-2" />
+    </filter>
+    <filter
+       height="1.4"
+       y="-0.2"
+       width="1.4"
+       x="-0.2"
+       style="color-interpolation-filters:sRGB"
+       id="filter1303-5">
+      <feTurbulence
+         baseFrequency="0.05"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result91"
+         id="feTurbulence1297-4" />
+      <feDisplacementMap
+         yChannelSelector="A"
+         scale="25"
+         result="result5"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap1299-1" />
+      <feComposite
+         in="SourceGraphic"
+         operator="atop"
+         in2="result5"
+         id="feComposite1301-8" />
+    </filter>
+    <filter
+       id="filter1303-5-6"
+       style="color-interpolation-filters:sRGB"
+       x="-0.2"
+       width="1.4"
+       y="-0.2"
+       height="1.4">
+      <feTurbulence
+         id="feTurbulence1297-4-6"
+         result="result91"
+         type="fractalNoise"
+         numOctaves="5"
+         baseFrequency="0.05" />
+      <feDisplacementMap
+         id="feDisplacementMap1299-1-5"
+         in2="result91"
+         in="SourceGraphic"
+         xChannelSelector="R"
+         result="result5"
+         scale="25"
+         yChannelSelector="A" />
+      <feComposite
+         id="feComposite1301-8-3"
+         in2="result5"
+         operator="atop"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       height="1.4"
+       y="-0.2"
+       width="1.4"
+       x="-0.2"
+       style="color-interpolation-filters:sRGB"
+       id="filter1303-5-6-5">
+      <feTurbulence
+         baseFrequency="0.05"
+         numOctaves="5"
+         type="fractalNoise"
+         result="result91"
+         id="feTurbulence1297-4-6-3" />
+      <feDisplacementMap
+         yChannelSelector="A"
+         scale="25"
+         result="result5"
+         xChannelSelector="R"
+         in="SourceGraphic"
+         in2="result91"
+         id="feDisplacementMap1299-1-5-9" />
+      <feComposite
+         in="SourceGraphic"
+         operator="atop"
+         in2="result5"
+         id="feComposite1301-8-3-0" />
+    </filter>
+    <filter
+       id="filter1543"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood1533"
+         result="flood"
+         flood-color="rgb(60,17,0)"
+         flood-opacity="1" />
+      <feComposite
+         id="feComposite1535"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur1537"
+         result="blur"
+         stdDeviation="2.3"
+         in="composite1" />
+      <feOffset
+         id="feOffset1539"
+         result="offset"
+         dy="1.9"
+         dx="2.6" />
+      <feComposite
+         id="feComposite1541"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter1567"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood1557"
+         result="flood"
+         flood-color="rgb(60,17,0)"
+         flood-opacity="1" />
+      <feComposite
+         id="feComposite1559"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur1561"
+         result="blur"
+         stdDeviation="2.3"
+         in="composite1" />
+      <feOffset
+         id="feOffset1563"
+         result="offset"
+         dy="1.9"
+         dx="2.6" />
+      <feComposite
+         id="feComposite1565"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter1591"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood1581"
+         result="flood"
+         flood-color="rgb(60,17,0)"
+         flood-opacity="1" />
+      <feComposite
+         id="feComposite1583"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur1585"
+         result="blur"
+         stdDeviation="2.3"
+         in="composite1" />
+      <feOffset
+         id="feOffset1587"
+         result="offset"
+         dy="1.9"
+         dx="2.6" />
+      <feComposite
+         id="feComposite1589"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter1651"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood1641"
+         result="flood"
+         flood-color="rgb(60,17,0)"
+         flood-opacity="1" />
+      <feComposite
+         id="feComposite1643"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur1645"
+         result="blur"
+         stdDeviation="2.3"
+         in="composite1" />
+      <feOffset
+         id="feOffset1647"
+         result="offset"
+         dy="1.9"
+         dx="2.6" />
+      <feComposite
+         id="feComposite1649"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(1.7727087,-78.978123)"
+     style="display:inline"
+     id="layer2">
+    <ellipse
+       ry="26.458332"
+       rx="28.905729"
+       cy="123.91677"
+       cx="34.605305"
+       id="path956"
+       style="fill:#26ad72;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:25.1338;filter:url(#filter1273)" />
+    <ellipse
+       style="fill:#6e7f9f;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:25.1338;filter:url(#filter1265)"
+       id="path956-9"
+       cx="71.834381"
+       cy="116.01979"
+       rx="28.905729"
+       ry="26.458334" />
+    <ellipse
+       ry="26.458334"
+       rx="28.905729"
+       cy="118.13646"
+       cx="105.96562"
+       id="path956-9-0"
+       style="fill:#c94854;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:25.1338;filter:url(#filter1173)" />
+    <ellipse
+       ry="26.458334"
+       rx="28.905729"
+       cy="128.58751"
+       cx="126.47083"
+       id="path956-9-1"
+       style="fill:#ffc983;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:25.1338;filter:url(#filter1165)" />
+    <ellipse
+       ry="4.3030396"
+       rx="3.7417734"
+       cy="98.315094"
+       cx="15.060637"
+       id="path1275"
+       style="fill:#26ad72;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:25.1338;filter:url(#filter1287)" />
+    <ellipse
+       ry="1.8708867"
+       rx="1.9644309"
+       cy="84.189896"
+       cx="56.968502"
+       id="path1277"
+       style="fill:#6e7f9f;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:25.1338;filter:url(#filter1295)" />
+    <ellipse
+       ry="2.4321527"
+       rx="2.525697"
+       cy="113.56282"
+       cx="5.0513935"
+       id="path1279"
+       style="fill:#26ad72;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:25.1338;filter:url(#filter1303)" />
+    <ellipse
+       style="fill:#26ad72;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:25.1338;filter:url(#filter1303-3)"
+       id="path1279-9"
+       cx="44.340015"
+       cy="148.36131"
+       rx="2.525697"
+       ry="2.4321527" />
+    <ellipse
+       ry="2.4321527"
+       rx="2.525697"
+       cy="143.49701"
+       cx="52.946095"
+       id="path1279-9-9"
+       style="fill:#26ad72;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:25.1338;filter:url(#filter1303-3-3)" />
+    <ellipse
+       style="fill:#6e7f9f;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:25.1338;filter:url(#filter1303-3-3-9)"
+       id="path1279-9-9-5"
+       cx="71.093697"
+       cy="148.92258"
+       rx="2.525697"
+       ry="2.4321527" />
+    <ellipse
+       ry="2.4321527"
+       rx="2.525697"
+       cy="144.99371"
+       cx="87.557495"
+       id="path1279-9-9-5-1"
+       style="fill:#c94854;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:25.1338;filter:url(#filter1303-3-3-9-0)" />
+    <ellipse
+       style="fill:#ffc983;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:25.1338;filter:url(#filter1303-3-3-9-0-6)"
+       id="path1279-9-9-5-1-8"
+       cx="137.51018"
+       cy="157.90283"
+       rx="2.525697"
+       ry="2.4321527" />
+    <ellipse
+       style="fill:#6e7f9f;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:25.1338;filter:url(#filter1303-5)"
+       id="path1279-7"
+       cx="47.333435"
+       cy="92.234711"
+       rx="2.525697"
+       ry="2.4321527" />
+    <ellipse
+       ry="2.4321527"
+       rx="2.525697"
+       cy="87.557495"
+       cx="86.622055"
+       id="path1279-7-9"
+       style="fill:#c94854;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:25.1338;filter:url(#filter1303-5-6)" />
+    <ellipse
+       style="fill:#ffc983;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:25.1338;filter:url(#filter1303-5-6-5)"
+       id="path1279-7-9-9"
+       cx="147.23878"
+       cy="101.02789"
+       rx="2.525697"
+       ry="2.4321527" />
+  </g>
+  <g
+     transform="translate(1.7727087,-78.978123)"
+     style="display:inline"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#0f2f71;fill-opacity:1;stroke:none;stroke-width:1.7317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1651)"
+       x="138.79214"
+       y="106.80148"
+       id="text855-3"
+       transform="matrix(0.93987101,0.22119016,-0.23725657,1.0081396,0,0)"><tspan
+         style="fill:#0f2f71;fill-opacity:1;stroke-width:1.7317px"
+         id="tspan857-6"
+         x="138.79214"
+         y="106.80148">O</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#065631;fill-opacity:1;stroke:none;stroke-width:1.7317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1591)"
+       x="68.920174"
+       y="137.94067"
+       id="text851-3"
+       transform="matrix(0.95970304,-0.10607803,0.11378313,1.0294123,0,0)"><tspan
+         id="tspan849-9"
+         x="68.920174"
+         y="137.94067"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#065631;fill-opacity:1;stroke-width:1.7317px">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#d4831a;fill-opacity:1;stroke:none;stroke-width:1.7317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1567)"
+       x="53.081886"
+       y="127.71073"
+       id="text847-3"
+       transform="matrix(0.965214,0.02538772,-0.02723179,1.0353234,0,0)"><tspan
+         id="tspan845-6"
+         x="53.081886"
+         y="127.71073"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d4831a;fill-opacity:1;stroke-width:1.7317px">U</tspan></text>
+    <path
+       id="path947"
+       d="m 29.236458,139.23698 -2.94349,-1.35599 3.274219,-0.82683 z"
+       style="fill:#7f030e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#7f030e;fill-opacity:1;stroke:none;stroke-width:1.7317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter1543)"
+       x="5.4973903"
+       y="137.47395"
+       id="text843-4"
+       transform="matrix(0.95479375,-0.14370617,0.15414444,1.0241463,0,0)"><tspan
+         id="tspan841-8"
+         x="5.4973903"
+         y="137.47395"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#7f030e;fill-opacity:1;stroke-width:1.7317px">L</tspan></text>
+    <path
+       id="path945"
+       d="m 33.370572,101.03776 -2.84427,-1.389063 -0.496094,2.943493 z"
+       style="fill:#7f030e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="matrix(0.95479375,-0.14370617,0.15414444,1.0241463,0,0)"
+       id="text843"
+       y="135.37077"
+       x="2.267802"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#b9202e;fill-opacity:1;stroke:none;stroke-width:1.7317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#b9202e;fill-opacity:1;stroke-width:1.7317px"
+         y="135.37077"
+         x="2.267802"
+         id="tspan841">L</tspan></text>
+    <path
+       id="path949"
+       d="m 61.085676,96.870572 -4.134114,-1.719792 -0.231511,3.175 z"
+       style="fill:#d4831a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="matrix(0.965214,0.02538772,-0.02723179,1.0353234,0,0)"
+       id="text847"
+       y="126.26112"
+       x="48.980816"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#f1a23c;fill-opacity:1;stroke:none;stroke-width:1.7317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f1a23c;fill-opacity:1;stroke-width:1.7317px"
+         y="126.26112"
+         x="48.980816"
+         id="tspan845">U</tspan></text>
+    <path
+       id="path951"
+       d="m 84.402082,134.11068 -3.638021,-1.12448 3.604948,-0.99219 z"
+       style="fill:#065631;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       transform="matrix(0.95970304,-0.10607803,0.11378313,1.0294123,0,0)"
+       id="text851"
+       y="136.43114"
+       x="65.258041"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#006c3a;fill-opacity:1;stroke:none;stroke-width:1.7317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#006c3a;fill-opacity:1;stroke-width:1.7317px"
+         y="136.43114"
+         x="65.258041"
+         id="tspan849">D</tspan></text>
+    <text
+       transform="matrix(0.939871,0.22119016,-0.23725657,1.0081396,0,0)"
+       id="text855"
+       y="106.35716"
+       x="135.78485"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#254991;fill-opacity:1;stroke:none;stroke-width:1.7317px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="106.35716"
+         x="135.78485"
+         id="tspan857">O</tspan></text>
+    <path
+       id="path1653"
+       d="m 120.55526,116.29899 -1.12253,0.93545 -1.42655,2.3386 -0.81852,2.92327 -0.14031,2.8531 0.81851,1.19269 2.17491,-4.72399 1.02898,-4.39659 z"
+       style="fill:#0f2f71;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
