@@ -1,4 +1,4 @@
- createUI = function(scene) {
+ createUI = function(scene,cam) {
          scene = scene;
          console.log("Creating User interface")
          advancedTexture = BABYLON.GUI.AdvancedDynamicTexture.CreateFullscreenUI("gameui");
@@ -10,19 +10,22 @@
 
          advancedTexture.addControl(b1);
 
+        var retvalue="Amicolor";
 
          setTimeout(() => {
              // advancedTexture1.removeControl(b1);
              b1.isVisible = false;
-             showSelection(scene);
+             retvalue=showSelection(scene,cam);
+             console.log("Retvalue is "+retvalue);
          }, 600);
-
+         return retvalue;
      } //end of function createPawns
 
 
 
- showSelection = function(scene) {
+ showSelection = function(scene,cam) {
      var textblock = new BABYLON.GUI.TextBlock();
+     var retvalue1;
      textblock.text = "Welcome to game, choose your pawn !!";
      textblock.fontSize = 24;
      textblock.top = -300;
@@ -42,7 +45,8 @@
          yrect1.isVisible = false;
          brect1.isVisible = false;
          textblock.isVisible = false;
-         pawnSelection("g")
+          
+         retvalue1=pawnSelection("g",cam);
      });
      grect1.left = -300;
 
@@ -60,7 +64,8 @@
          yrect1.isVisible = false;
          brect1.isVisible = false;
          textblock.isVisible = false;
-         pawnSelection("r")
+         
+         retvalue1=pawnSelection("r",cam);
      });
      rrect1.left = -100;
 
@@ -78,7 +83,8 @@
          yrect1.isVisible = false;
          brect1.isVisible = false;
          textblock.isVisible = false;
-         pawnSelection("b")
+          
+         retvalue1=pawnSelection("b",cam);
      });
      brect1.left = 100;
 
@@ -96,7 +102,8 @@
          yrect1.isVisible = false;
          brect1.isVisible = false;
          textblock.isVisible = false;
-         pawnSelection("y")
+       
+         retvalue1=pawnSelection("y",cam);
      });
      yrect1.left = 300;
 
@@ -130,19 +137,22 @@
      advancedTexture.addControl(brect1);
      advancedTexture.addControl(yrect1);
 
+     return retvalue1;
 
  };
 
- pawnSelection = function(pcolor) {
+ pawnSelection = function(pcolor,cam) {
 
+         mainPlayer=new Player("1stP","pcolor")
          console.log("Selected color " + pcolor);
+          if(pcolor=="b" || pcolor=="y"){
+           //cam.
+           
+         }
+      
          //show start of the game i.e. make all the pawns invisible
          createLudoBoard(scene);
          // createPawns(scene);
      } //end of function pawnselection
 
- class UI {
-     constructor() {
-         console.log("Constructor of ui");
-     }
- }
+  

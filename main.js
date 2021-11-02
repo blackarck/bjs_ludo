@@ -5,6 +5,7 @@ var canvas = document.getElementById("renderCanvas");
 var engine = null;
 var scene = null;
 var sceneToRender = null;
+var mainPlayer;
 
 var createDefaultEngine = function() {
     return new BABYLON.Engine(canvas, true, {
@@ -19,9 +20,11 @@ class Playground {
             // This creates a basic Babylon Scene object (non-mesh)
             var scene = new BABYLON.Scene(engine);
             // This creates and positions a free camera (non-mesh)
-            var camera = new BABYLON.FreeCamera("camera1", new BABYLON.Vector3(0, 15, 0), scene);
+            //var camera = new BABYLON.FreeCamera("camera1", new BABYLON.Vector3(3, 20, 3), scene);
+            var camera = new BABYLON.ArcRotateCamera("Camera", 0, 0, 20, new BABYLON.Vector3(7, 7, 0), scene);
+            camera.setPosition(new BABYLON.Vector3(10, 20, 10));
             // This targets the camera to scene origin
-            camera.setTarget(new BABYLON.Vector3(5, 4, -5));
+           // camera.setTarget(new BABYLON.Vector3(5, 4, -5));
             // This attaches the camera to the canvas
             camera.attachControl(canvas, true);
             // This creates a light, aiming 0,1,0 - to the sky (non-mesh)
@@ -29,8 +32,8 @@ class Playground {
             // Default intensity is 1. Let's dim the light a small amount
             light.intensity = 0.7;
 
-            createUI(scene);
-
+            createUI(scene,camera);
+        
             return scene;
         } //end of create scene method
 } //end of class playground
